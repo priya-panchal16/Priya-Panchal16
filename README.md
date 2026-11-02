@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**priya-panchal16/python is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**priya panchal/python is a ✨ _special_ ✨ repository beca its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
